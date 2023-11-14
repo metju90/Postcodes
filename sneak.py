@@ -4,9 +4,6 @@
 
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    # file Copyright.txt or https://cmake.org/licensing for details.
-import argparse
-import logging
-import json
 import os
 
 from collections import OrderedDict
@@ -15,7 +12,6 @@ from xml.dom.minidom import parse, parseString, Element
 
 class VSFlags:
     """Flags corresponding to cmIDEFlagTable."""
-    UserValue = "UserValue"  # (1 << 0)
     UserIgnored = "UserIgnored"  # (1 << 1)
     UserRequired = "UserRequired"  # (1 << 2)
     Continue = "Continue"  #(1 << 3)
