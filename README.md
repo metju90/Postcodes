@@ -9,7 +9,7 @@ Consider the following examples:
 
 Additionally,
  
-- 100% of the addresses in `6343 Buonas` belongs to the municipality Risch;
+-      100% of the addresses in `6343 Buonas` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Rotkreuz` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Risch` also belongs to the municipality Risch.
  
