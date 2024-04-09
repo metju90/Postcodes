@@ -12,8 +12,7 @@ Additionally,
 - 100% of the addresses in `6343 Buonas` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Rotkreuz` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Risch` also belongs to the municipality Risch.
-
-
+ 
 This application
 
 This application expects the user to input a postcode and then the system and the system list the corresponding locations and municipalities.
