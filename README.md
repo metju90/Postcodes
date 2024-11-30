@@ -8,7 +8,7 @@ Consider the following examples:
 - the remaining 30.2% addresses of `8806 Bäch SZ`belongs to the municipality Wollerau.
 
 Additionally,
-
+ 
 - 100% of the addresses in `6343 Buonas` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Rotkreuz` belongs to the municipality Risch;
 - 100% of the addresses in `6343 Risch` also belongs to the municipality Risch.
